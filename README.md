@@ -1,0 +1,1 @@
+This repo consists of a machine learning model of plant disease detection which is built using a convolutional neural network(CNN) algorithm which takes images of disease effected plants as input and outputs the disease name of the plant
